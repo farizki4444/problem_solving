@@ -223,7 +223,7 @@ CircleCollider2D:
   m_GameObject: {fileID: 1369715377}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 9c22167d12e4f784f819537ea13d4f76, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -304,8 +304,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1b4892377344e94ca26353431fadebb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xInitialForce: 0
-  yInitialForce: 0
+  xInitialForce: 50
+  yInitialForce: 60
 --- !u!50 &1369715382
 Rigidbody2D:
   serializedVersion: 4
